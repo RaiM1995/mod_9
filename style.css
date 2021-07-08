@@ -1,0 +1,14 @@
+ul {
+    list-style: none; 
+    margin: 0; 
+    padding-left: 0; 
+  }
+  a {
+    text-decoration: none;
+    background:#30A8E6;
+    font-family: arial;
+  }
+  li {
+    float:left;
+    margin-right:5px; 
+  }
